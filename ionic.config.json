@@ -1,0 +1,7 @@
+{
+  "name": "wisata_garut_uts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
